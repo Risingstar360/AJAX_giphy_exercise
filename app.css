@@ -1,0 +1,51 @@
+h1 {
+  text-align: center;
+  color: whitesmoke;
+}
+
+form {
+  text-align: center;
+}
+
+#newgiphy {
+  width: 50vw;
+  border-radius: 3px;
+  border: none;
+  margin: 20px auto;
+  font-size: 3vw;
+  padding: 1vw;
+}
+
+#search {
+  border-radius: 3px;
+  border: none;
+  margin: 20px auto;
+  cursor: pointer;
+  font-size: 3vw;
+  padding: 1vw;
+}
+
+#remove {
+  border-radius: 3px;
+  border: none;
+  background-color: orangered;
+  margin: 20px auto;
+  cursor: pointer;
+  color: whitesmoke;
+  font-size: 3vw;
+  padding: 1vw;
+  margin-top: auto;
+}
+
+body {
+  background-color: black;
+}
+
+img {
+  width: 25vw;
+  max-height: 25vw;
+}
+
+#container {
+  position: relative;
+}
